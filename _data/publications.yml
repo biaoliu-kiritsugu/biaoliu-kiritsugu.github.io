@@ -6,7 +6,7 @@ main:
     pdf: https://proceedings.mlr.press/v202/liu23ar/liu23ar.pdf
     page: https://proceedings.mlr.press/v202/liu23ar.html
     bibtex: https://proceedings.mlr.press/v202/liu23ar.html#:~:text=Copy%20to%20Clipboard-,Download,-Endnote
-    notes: Poster
+    notes: CCF-A
 
   - title: Progressive purification for instance-dependent partial label learning
     authors: Ning Xu, <strong>Biao Liu</strong>, Jiaqi Lv, Xin Geng
@@ -14,7 +14,7 @@ main:
     pdf: https://proceedings.mlr.press/v202/xu23l/xu23l.pdf
     page: https://proceedings.mlr.press/v202/xu23l.html
     bibtex: https://proceedings.mlr.press/v202/xu23l.html#:~:text=Copy%20to%20Clipboard-,Download,-Endnote
-    notes: Poster
+    notes: CCF-A
 
   - title: Variational Label-Correlation Enhancement for Congestion Prediction
     authors: <strong>Biao Liu*</strong>, Congyu Qiao*, Ning Xu, Xin Geng, Ziran Zhu, Jun Yang (*Equal contribution)
