@@ -46,7 +46,7 @@
 </div>
 </li>
 
-<br>
+
 
 {% endfor %}
 
