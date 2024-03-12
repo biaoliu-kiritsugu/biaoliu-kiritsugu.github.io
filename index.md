@@ -1,23 +1,16 @@
 ---
 layout: homepage
 ---
-
 ## About Me
 
-I am a Ph.D. student at ...
+I received the BSc degree in computer science from Nanjing University of Science and Technology, China in 2021. Currently, I am a PhD student (supervised by Prof. Xin Geng) in the School of Computer Science and Engineering at Southeast University, China. His main research interests include machine learning and data mining.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Machine Learning:** partial label learning, multi-label learning, semi-supervised learning
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/publications_journal.md %}
 
 {% include_relative _includes/services.md %}

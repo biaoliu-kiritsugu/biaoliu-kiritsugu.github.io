@@ -1,11 +1,10 @@
-## Publications
 
-### Conference
+### Journal
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications_journal.main %}
 
 <li>
 
