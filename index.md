@@ -11,6 +11,4 @@ I received the BSc degree in computer science from Nanjing University of Science
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/publications_journal.md %}
-
 {% include_relative _includes/services.md %}
