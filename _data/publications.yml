@@ -1,6 +1,6 @@
 main:
 
-  - title: Revisiting pseudo-label for single-positive multi-label learning
+  - title: Revisiting Pseudo-Label for Single-Positive Multi-Label Learning
     authors: <strong>Biao Liu</strong>, Ning Xu, Jiaqi Lv, Xin Geng
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://proceedings.mlr.press/v202/liu23ar/liu23ar.pdf
@@ -8,7 +8,7 @@ main:
     bibtex: https://proceedings.mlr.press/v202/liu23ar.html#:~:text=Copy%20to%20Clipboard-,Download,-Endnote
     notes: CCF-A
 
-  - title: Progressive purification for instance-dependent partial label learning
+  - title: Progressive Purification for Instance-Dependent Partial Label Learning
     authors: Ning Xu, <strong>Biao Liu</strong>, Jiaqi Lv, Xin Geng
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://proceedings.mlr.press/v202/xu23l/xu23l.pdf
