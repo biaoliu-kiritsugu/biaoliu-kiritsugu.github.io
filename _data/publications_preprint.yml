@@ -3,7 +3,3 @@ main:
   - title: Can Class-Priors Help Single-Positive Multi-Label Learning?
     authors: <strong>Biao Liu</strong>, Ning Xu, Jie Wang, Xin Geng
     pdf: https://arxiv.org/abs/2309.13886
-
-  - title: Correlation-Induced Label Prior for Semi-Supervised Multi-Label Learning
-    authors: <strong>Biao Liu</strong>, Ning Xu, Xiangyu Fang, Xin Geng
-    pdf: none
