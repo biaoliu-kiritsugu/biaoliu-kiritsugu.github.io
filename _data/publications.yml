@@ -3,8 +3,10 @@ main:
   - title: Correlation-Induced Label Prior for Semi-Supervised Multi-Label Learning
     authors: <strong>Biao Liu</strong>, Ning Xu, Xiangyu Fang, Xin Geng
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
+    pdf: https://raw.githubusercontent.com/mlresearch/v235/main/assets/liu24bt/liu24bt.pdf
+    page: https://proceedings.mlr.press/v235/liu24bt.html
+    bibtex: https://proceedings.mlr.press/v235/liu24bt.html#:~:text=Copy%20to%20Clipboard-,Download,-Endnote
     notes: CCF-A
-    pdf: none
 
   - title: Revisiting Pseudo-Label for Single-Positive Multi-Label Learning
     authors: <strong>Biao Liu</strong>, Ning Xu, Jiaqi Lv, Xin Geng
