@@ -3,3 +3,7 @@ main:
   - title: Can Class-Priors Help Single-Positive Multi-Label Learning?
     authors: <strong>Biao Liu</strong>, Ning Xu, Jie Wang, Xin Geng
     pdf: https://arxiv.org/abs/2309.13886
+
+  - title: Progressively Selective Label Enhancement for Language Model Alignment
+    authors: <strong>Biao Liu</strong>, Ning Xu, Xin Geng
+    pdf: https://arxiv.org/abs/2408.02599
