@@ -16,4 +16,5 @@
 <ul style="margin:0 0 5px;">
   <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></li>
   <li><autocolor>IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC) </autocolor></li>
+  <li><autocolor>ACM Transactions on Knowledge Discovery from Data (TKDD)</autocolor></li>
 </ul>
