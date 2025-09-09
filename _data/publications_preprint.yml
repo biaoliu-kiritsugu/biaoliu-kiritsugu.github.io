@@ -1,10 +1,10 @@
 main:
 
-  - title: Alignment through Meta-Weighted Online Sampling: Bridging the Gap between Data Generation and Preference Optimization
+  - title: Alignment through Meta-Weighted Online Sampling:Bridging the Gap between Data Generation and Preference Optimization
     authors: Junming Yang, Ning Xu, <strong>Biao Liu</strong>, Shiqi Qiao, Xin Geng
 
-  - title: Negative-Prompt-driven Alignment for Generative Language ModelPreprint
-    authors: Shiqi Qiao, Ning Xv, <strong>Biao Liu</strong>, Xin Geng
+  - title: Negative-Prompt-driven Alignment for Generative Language Model
+    authors: Shiqi Qiao, Ning Xu, <strong>Biao Liu</strong>, Xin Geng
     pdf: https://arxiv.org/abs/2410.12194
 
   - title: Can Class-Priors Help Single-Positive Multi-Label Learning?
