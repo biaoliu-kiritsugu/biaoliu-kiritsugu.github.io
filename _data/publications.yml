@@ -6,6 +6,12 @@ main:
     pdf: https://arxiv.org/abs/2408.02599
     notes: CCF-A
 
+  - title: Alignment through Meta-Weighted Online Sampling: Bridging the Gap between Data Generation and Preference Optimization
+    authors: Junming Yang, Ning Xu, <strong>Biao Liu</strong>, Shiqi Qiao, Xin Geng
+    conference: International Conference of Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://openreview.net/forum?id=8OD1ymZxY9
+    notes: CCF-A
+
   - title: Can Class-Priors Help Single-Positive Multi-Label Learning?
     authors: <strong>Biao Liu</strong>, Ning Xu, Jie Wang, Xin Geng
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
