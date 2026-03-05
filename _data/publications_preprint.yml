@@ -1,10 +1,10 @@
 main:
-  - title: Preference Orchestrator: Prompt-Aware Multi-Objective Alignment for Large Language Models
+  - title: Preference Orchestrator:Prompt-Aware Multi-Objective Alignment for Large Language Models
     authors: <strong>Biao Liu</strong>, Ning Xu, Junming Yang, Xin Geng
     pdf: https://arxiv.org/abs/2511.10656
 
-  - title: VRM: Teaching Reward Models to Understand Authentic Human Preferences
-    authors: Biao Liu, Ning Xu, Junming Yang, Hao Xu, Xin Geng
+  - title: VRM:Teaching Reward Models to Understand Authentic Human Preferences
+    authors: <strong>Biao Liu</strong>, Ning Xu, Junming Yang, Hao Xu, Xin Geng
 
   - title: Negative-Prompt-driven Alignment for Generative Language Model
     authors: Shiqi Qiao, Ning Xu, <strong>Biao Liu</strong>, Xin Geng
